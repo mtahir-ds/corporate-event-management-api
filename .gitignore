@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# AI Agent memory and local notes
+AGENTS.md
+.gemini/
+.antigravity/
